@@ -1,10 +1,10 @@
-# Introduction
-
-Progetto crato per testare lo state management Redux in Angular 10
-
-# ReduxStateManagement
+# Redux State Management
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+
+## Introduction
+
+Progetto crato per testare lo state management Redux in Angular 10
 
 ## Development server
 
